@@ -23,3 +23,20 @@
 body p{
     text-indent: 1%;
 }
+.text-section{
+    font-weight: bolder;
+}
+
+.nav-item{
+    text-decoration: none;
+    color: rgb(66, 66, 66);
+
+}
+.nav-item:hover{
+    text-decoration: underline;
+
+}
+.item-email{
+    cursor: pointer;
+    color: rebeccapurple;
+}
